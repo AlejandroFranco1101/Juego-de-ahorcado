@@ -1,0 +1,14 @@
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Juego de ahorcado\Juego de ahorcado\bin\Debug\net9.0\Juego de ahorcado.exe
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Juego de ahorcado\Juego de ahorcado\bin\Debug\net9.0\Juego de ahorcado.deps.json
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Juego de ahorcado\Juego de ahorcado\bin\Debug\net9.0\Juego de ahorcado.runtimeconfig.json
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Juego de ahorcado\Juego de ahorcado\bin\Debug\net9.0\Juego de ahorcado.dll
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Juego de ahorcado\Juego de ahorcado\bin\Debug\net9.0\Juego de ahorcado.pdb
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Juego de ahorcado\Juego de ahorcado\obj\Debug\net9.0\Juego de ahorcado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Juego de ahorcado\Juego de ahorcado\obj\Debug\net9.0\Juego de ahorcado.AssemblyInfoInputs.cache
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Juego de ahorcado\Juego de ahorcado\obj\Debug\net9.0\Juego de ahorcado.AssemblyInfo.cs
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Juego de ahorcado\Juego de ahorcado\obj\Debug\net9.0\Juego de ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Juego de ahorcado\Juego de ahorcado\obj\Debug\net9.0\Juego de ahorcado.dll
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Juego de ahorcado\Juego de ahorcado\obj\Debug\net9.0\refint\Juego de ahorcado.dll
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Juego de ahorcado\Juego de ahorcado\obj\Debug\net9.0\Juego de ahorcado.pdb
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Juego de ahorcado\Juego de ahorcado\obj\Debug\net9.0\Juego de ahorcado.genruntimeconfig.cache
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Juego de ahorcado\Juego de ahorcado\obj\Debug\net9.0\ref\Juego de ahorcado.dll

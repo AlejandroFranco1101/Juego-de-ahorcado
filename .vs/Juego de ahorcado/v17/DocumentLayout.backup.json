@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ITO\\Desktop\\UDB\\Programacion Laboratorio\\Desafio02\\Juego de ahorcado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{655183D9-C6A8-4D69-990E-705B607289BF}|Juego de ahorcado\\Juego de ahorcado.csproj|c:\\users\\ito\\desktop\\udb\\programacion laboratorio\\desafio02\\juego de ahorcado\\juego de ahorcado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655183D9-C6A8-4D69-990E-705B607289BF}|Juego de ahorcado\\Juego de ahorcado.csproj|solutionrelative:juego de ahorcado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ITO\\Desktop\\UDB\\Programacion Laboratorio\\Desafio02\\Juego de ahorcado\\Juego de ahorcado\\Program.cs",
+              "RelativeDocumentMoniker": "Juego de ahorcado\\Program.cs",
+              "ToolTip": "C:\\Users\\ITO\\Desktop\\UDB\\Programacion Laboratorio\\Desafio02\\Juego de ahorcado\\Juego de ahorcado\\Program.cs",
+              "RelativeToolTip": "Juego de ahorcado\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:55:05.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
