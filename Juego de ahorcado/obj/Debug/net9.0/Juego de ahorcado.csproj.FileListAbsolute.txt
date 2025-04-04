@@ -12,3 +12,4 @@ C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Juego de ahorcado\Ju
 C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Juego de ahorcado\Juego de ahorcado\obj\Debug\net9.0\Juego de ahorcado.pdb
 C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Juego de ahorcado\Juego de ahorcado\obj\Debug\net9.0\Juego de ahorcado.genruntimeconfig.cache
 C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Juego de ahorcado\Juego de ahorcado\obj\Debug\net9.0\ref\Juego de ahorcado.dll
+C:\Users\ITO\Desktop\UDB\Programacion Laboratorio\Desafio02\Juego de ahorcado\Juego de ahorcado\obj\Debug\net9.0\Juego de ahorcado.sourcelink.json
